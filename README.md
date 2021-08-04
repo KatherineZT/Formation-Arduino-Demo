@@ -24,3 +24,9 @@ Justification de l'utilisation du L298N :
 
 #### Qu'est-ce qu'un pont-en-H (ou H-bridge)?
 Un circuit simple qui permet de contrôler la direction et la vitesse d'un moteur.
+
+### Pour faire rouler le code
+Importez la librairie L298N pour Arduino dans le Arduino IDE, puis ouvrez le fichier `.ino`. Compilez le code pour vous assurer que la librairie est trouvée, puis programmez votre Arduino.
+
+### Branchements
+(insérer image ici)
